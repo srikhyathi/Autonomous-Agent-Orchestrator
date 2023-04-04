@@ -1,4 +1,4 @@
 # Autonomous Multi-Agent Framework
 - Date: 2023-04-04
-- Commit: 3/66
-- Module: docs(architecture): document multi-agent communication protocol and memory schemas
+- Commit: 4/66
+- Module: feat(context): implement dynamic context compression and token budgeting
