@@ -1,4 +1,4 @@
 # Autonomous Multi-Agent Framework
 - Date: 2023-04-11
-- Commit: 7/31
-- Module: docs(guides): write quickstart guide and production deployment manifesto
+- Commit: 8/31
+- Module: feat(planner): implement hierarchical task decomposition DAG
