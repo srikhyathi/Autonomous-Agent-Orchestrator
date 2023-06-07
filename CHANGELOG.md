@@ -1,4 +1,4 @@
 # Autonomous Multi-Agent Framework
 - Date: 2023-06-07
-- Commit: 20/60
-- Module: fix(security): prevent prompt injection in dynamic tool dispatch parameters
+- Commit: 21/60
+- Module: docs(architecture): document multi-agent communication protocol and memory schemas
