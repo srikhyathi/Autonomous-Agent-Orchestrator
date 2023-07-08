@@ -1,4 +1,4 @@
 # Autonomous Multi-Agent Framework
 - Date: 2023-07-08
-- Commit: 4/71
-- Module: feat(telemetry): export OpenTelemetry traces for agent decision graphs
+- Commit: 5/71
+- Module: test(safety): add automated guardrails for unauthorized tool invocation
