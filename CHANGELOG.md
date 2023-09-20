@@ -1,4 +1,4 @@
 # Autonomous Multi-Agent Framework
 - Date: 2023-09-20
-- Commit: 20/29
-- Module: perf(cache): add semantic cache for recurring reasoning trajectories
+- Commit: 21/29
+- Module: fix(session): handle token context overflow with automated sliding window
