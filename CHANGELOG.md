@@ -1,4 +1,4 @@
 # Autonomous Multi-Agent Framework
 - Date: 2023-10-07
-- Commit: 16/74
-- Module: feat(gateway): add streaming SSE output for real-time agent thought emission
+- Commit: 17/74
+- Module: refactor(schema): migrate agent action space to Pydantic v2 BaseModels
