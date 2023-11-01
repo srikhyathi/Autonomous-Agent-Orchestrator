@@ -1,4 +1,4 @@
 # Autonomous Multi-Agent Framework
 - Date: 2023-11-01
-- Commit: 72/75
-- Module: docs(benchmarks): publish latency and accuracy comparison across LLM backends
+- Commit: 73/75
+- Module: feat(telemetry): export OpenTelemetry traces for agent decision graphs
