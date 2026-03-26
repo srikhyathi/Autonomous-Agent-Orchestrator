@@ -1,4 +1,4 @@
 # Autonomous Multi-Agent Orchestrator
 - Date: 2026-03-26
-- Task: docs(benchmarks): publish latency and accuracy comparison across LLM backends
-- Checkpoint: 31/227
+- Task: feat(telemetry): export OpenTelemetry traces for agent decision graphs
+- Checkpoint: 32/227
