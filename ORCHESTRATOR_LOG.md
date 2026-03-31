@@ -1,4 +1,4 @@
 # Autonomous Multi-Agent Orchestrator
 - Date: 2026-03-31
-- Task: fix(security): prevent prompt injection in dynamic tool dispatch parameters
-- Checkpoint: 176/223
+- Task: docs(architecture): document multi-agent communication protocol and memory schemas
+- Checkpoint: 177/223
