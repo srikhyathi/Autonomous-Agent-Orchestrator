@@ -1,4 +1,4 @@
 # Autonomous Multi-Agent Orchestrator
 - Date: 2026-05-17
-- Task: refactor(core): streamline agent registry and pluggable plugin interfaces
-- Checkpoint: 15/78
+- Task: docs(guides): write quickstart guide and production deployment manifesto
+- Checkpoint: 16/78
