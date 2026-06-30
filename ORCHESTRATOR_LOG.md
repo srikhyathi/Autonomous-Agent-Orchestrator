@@ -1,4 +1,4 @@
 # Autonomous Multi-Agent Orchestrator
 - Date: 2026-06-30
-- Task: feat(dispatcher): implement asynchronous tool execution with exponential backoff
-- Checkpoint: 309/347
+- Task: refactor(core): streamline agent registry and pluggable plugin interfaces
+- Checkpoint: 310/347
