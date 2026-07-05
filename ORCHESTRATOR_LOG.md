@@ -1,4 +1,4 @@
 # Autonomous Multi-Agent Orchestrator
 - Date: 2026-07-05
-- Task: feat(telemetry): export OpenTelemetry traces for agent decision graphs
-- Checkpoint: 324/328
+- Task: test(safety): add automated guardrails for unauthorized tool invocation
+- Checkpoint: 325/328
