@@ -1,4 +1,4 @@
 # Autonomous Multi-Agent Orchestrator
 - Date: 2026-10-01
-- Task: feat(tools): add sandboxed Python code execution tool with resource limits
-- Checkpoint: 80/313
+- Task: refactor(orchestrator): decouple agent state transitions from runtime event loop
+- Checkpoint: 81/313
